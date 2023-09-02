@@ -1,3 +1,12 @@
+# Grace Baker's First CS193 Homework
+
+My favorite things about CS193 so far!
+
+- There is no quizes or exams
+- It is taught by CS students
+- It is a nice environment
+- I overall have enjoyed the concepts so far!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
